@@ -1,4 +1,4 @@
-// Problem 269. Alien Dictionary
+// Problem 1032. Stream of Characters
 // Time Complexity : O(N×L+QXL)
 // Space Complexity : O(N×L)
 // Did this code successfully run on Leetcode : Yes
